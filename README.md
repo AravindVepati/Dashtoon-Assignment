@@ -1,6 +1,6 @@
 # Dashtoon-Assignment
 # This repository partially implements the paper Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Johnson et al.
-# The Dataset used is MSCOCO 2014 Train
+# The Dataset used is MSCOCO 2014
 # The data/train should contain the iamges from the Dataset.
 # Main file is the Generative_AI.ipynb.
 # Artistic style from the image in the middle is adopted to the image on the left and the resulted image is on the right after 2500 iterations.
