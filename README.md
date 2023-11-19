@@ -3,5 +3,10 @@
 # The Dataset used is MSCOCO 2014 Train
 # The data/train should contain the iamges from the Dataset.
 # Main file is the Generative_AI.ipynb.
-[![Description of image](https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Original_image.jpeg) [![Description of image](https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Artistic_style.jpeg)
+<p float="left">
+  <img src="[URL-of-first-image](https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Original_image.jpeg)" width="33%" />
+  <img src="[URL-of-second-image](https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Artistic_style.jpeg)https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Artistic_style.jpeg" width="33%" /> 
+  <img src="[URL-of-third-image](https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Style_Adopted_image.jpeg)https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Style_Adopted_image.jpeg" width="33%" />
+</p>
+
 
