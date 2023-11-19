@@ -9,7 +9,7 @@
   <img src="https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Artistic_style.jpeg" width="33%" /> 
   <img src="https://github.com/AravindVepati/Dashtoon-Assignment/blob/main/Style_Adopted_image.jpeg" width="33%" />
 </p>
-# Artistic style from the image in the middle is adopted to the image on the left and the resulted image is on the right after 2500 iterations.
+# Artistic style from the image is adopted to the image on the left and the resulted image  after 2500 iterations is shown.
 
 
 
